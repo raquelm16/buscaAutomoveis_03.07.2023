@@ -1,0 +1,64 @@
+{
+    "automoveis": [
+        {
+            "placa":"1",
+            "marca":"Volkswagen",
+            "modelo":"Gol",
+            "ano":"1990"
+        },
+        {
+            "placa":"2",
+            "marca":"Fiat",
+            "modelo":"Uno",
+            "ano":"2010"
+        },
+        {
+            "placa":"3",
+            "marca":"Fiat",
+            "modelo":"Palio",
+            "ano":"2005"
+        },
+        {
+            "placa":"4",
+            "marca":"Volkswagen",
+            "modelo":"CrossFox",
+            "ano":"1993"
+        },
+        {
+            "placa":"5",
+            "marca":"Fiat",
+            "modelo":"Siena",
+            "ano":"1991"
+        },
+        {
+            "placa":"6",
+            "marca":"General Motors",
+            "modelo":"Celta",
+            "ano":"2002"
+        },
+        {
+            "placa":"7",
+            "marca":"Volkswagen",
+            "modelo":"Voyage",
+            "ano":"2004"
+        },
+        {
+            "placa":"8",
+            "marca":"Hyundai",
+            "modelo":"HB20",
+            "ano":"1995"
+        },
+        {
+            "placa":"9",
+            "marca":"General Motors",
+            "modelo":"Corsa Sedan",
+            "ano":"1996"
+        },
+        {
+            "placa":"10",
+            "marca":"General Motors",
+            "modelo":"Onix",
+            "ano":"1997"
+        }        
+    ]
+}
